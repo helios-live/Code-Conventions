@@ -3,13 +3,13 @@
 ## Rules of Commit-ment
 
 ### Branches
- - **The branch names must begin with the jira issue code
+ - **The branch names must begin with the jira issue code**
     - **Don't:**
        - ❌ Title: Cleaning Code
     - **Do:**
        - ✅ Title: HS-1234 Cleaning Code
 ### Pull Requests
- - **Pull requests name must begin with the jira issue code
+ - **Pull requests name must begin with the jira issue code**
     - **Don't:**
        - ❌ Title: Cleaning Code
     - **Do:**
