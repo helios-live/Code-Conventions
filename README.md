@@ -1,7 +1,19 @@
 # Code-Conventions
 
 ## Rules of Commit-ment
+
+### Branches
+ - **The branch names must begin with the jira issue code
+    - **Don't:**
+       - ❌ Title: Cleaning Code
+    - **Do:**
+       - ✅ Title: HS-1234 Cleaning Code
 ### Pull Requests
+ - **Pull requests name must begin with the jira issue code
+    - **Don't:**
+       - ❌ Title: Cleaning Code
+    - **Do:**
+       - ✅ Title: HS-1234 Cleaning Code
  - **Maximum time alloted for verifying a PR is 5 minutes. If it goes beyond that, it will be rejected.**
  - **The PR itself must contain all the necessary information/direct links to said information to gage**
     - What is being adressed ( before ).
