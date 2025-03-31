@@ -1,3 +1,8 @@
+# Must Learn
+ - https://laracasts.com/series/phpstorm-for-laravel-developers
+
+
+
 # Code-Conventions
 
 ## Rules of Commit-ment
