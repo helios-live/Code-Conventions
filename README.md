@@ -7,6 +7,11 @@
 
 ## Rules of Commit-ment
 
+### Live Project Rules
+
+-   **Do not fix bugs that are not approved in JIRA( in todo)**
+-   **Do not change existing live functionality without an approved task in JIRA**
+
 ### Branches
  - **The branch names must begin with the jira issue code**
     - **Don't:**
@@ -46,6 +51,10 @@
     - ❌ Title: ~~ads~~ subscription title as standalone component
     - ✅ Title: **Added**```(Short for I have added)``` subscription title as standalone component
     - 
+
+### Code Quality 
+-   **Use DRY principle as much as possible if not using it you must be able to explain why**
+
 
 ## Laravel 
 ### Must use npm plugins
